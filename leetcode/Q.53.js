@@ -1,4 +1,4 @@
-// Maximum SubArray
+// Maximum SubArray // Kadane's Algorithm
 
 /**
  * @param {number[]} nums
