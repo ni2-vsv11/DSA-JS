@@ -12,5 +12,5 @@ for(i=0; i<s.length; i++){
         toggle = toggle + String.fromCharCode(ch - 32)
     }
     
-}
+} 
 console.log(toggle);
